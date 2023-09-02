@@ -1,0 +1,26 @@
+p{
+    width: 100%;
+    font-size: 30px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+
+.number-button{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    max-width: 100%;
+}
+button{
+    font-size: 30px;
+    width: 24%;
+    height:40px;
+    margin: 1px;  
+}
+
+.other-button{
+    width: 49%;
+}
